@@ -16,10 +16,6 @@ A modern, responsive dashboard for managing and interacting with AI personalitie
 - 🎯 **Modern UI** - Built with Shadcn UI components and smooth animations
 - ⚡ **Fast Performance** - Powered by Next.js 15 with Turbopack
 
-## 🚀 Live Demo
-
-🌐 **Repository**: [https://github.com/Somoru/ai-persona-dashboard](https://github.com/Somoru/ai-persona-dashboard)
-
 ## 📦 Installation
 
 1. **Clone the repository**
