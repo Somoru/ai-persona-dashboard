@@ -1,4 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Persona Dashboard
+
+A modern, responsive dashboard for managing and interacting with AI personalities. Built with Next.js 15, TypeScript, and Tailwind CSS.
+
+![AI Persona Dashboard](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## ✨ Features
+
+- 🤖 **AI Persona Management** - Create, edit, and manage AI personalities
+- 🎨 **Dark/Light Theme Toggle** - Seamless theme switching with system preference detection
+- 📱 **Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- 🔍 **Search & Filter** - Find personas quickly by name, specialty, or type
+- 📊 **Analytics Dashboard** - View usage statistics and performance metrics
+- 🎯 **Modern UI** - Built with Shadcn UI components and smooth animations
+- ⚡ **Fast Performance** - Powered by Next.js 15 with Turbopack
+
+## 🚀 Live Demo
+
+🌐 **Repository**: [https://github.com/Somoru/ai-persona-dashboard](https://github.com/Somoru/ai-persona-dashboard)
+
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Somoru/ai-persona-dashboard.git
+   cd ai-persona-dashboard
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Navigate to [http://localhost:3000](http://localhost:3000)
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 15](https://nextjs.org/) with App Router
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**: [Shadcn UI](https://ui.shadcn.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Charts**: [Recharts](https://recharts.org/)
+- **State Management**: React Context API
+- **Data Persistence**: LocalStorage
+
+## 🎨 AI Personas Included
+
+The dashboard comes with 6 sample AI personas:
+
+1. **Alex Assistant** - Helpful productivity assistant
+2. **Luna Creative** - Whimsical creative writing partner  
+3. **Dr. Sage** - Professional medical expert
+4. **Buddy Friend** - Casual friendly companion
+5. **Prof. Tech** - Technical programming mentor
+6. **Zen Therapist** - Calm therapeutic guide
 
 ## Getting Started
 
